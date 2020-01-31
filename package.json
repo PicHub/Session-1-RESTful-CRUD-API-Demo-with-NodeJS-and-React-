@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Simple CRUD API DemoApp ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PicHub/Session-1-RESTful-CRUD-API-Demo-with-NodeJS-and-React-.git"
+  },
+  "author": "Mouhammad DIAKHATE",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PicHub/Session-1-RESTful-CRUD-API-Demo-with-NodeJS-and-React-/issues"
+  },
+  "homepage": "https://github.com/PicHub/Session-1-RESTful-CRUD-API-Demo-with-NodeJS-and-React-#readme"
+}
